@@ -3,7 +3,7 @@ import React from 'react'
 const MobileExperience = () => {
   
   // My Education here
-  let experience = [
+  const experience = [
     {
       skill: "Web Designer",
       

@@ -13,7 +13,7 @@ import { School } from "lucide-react";
 const Experience = () => {
 
   // My Education here
-  let experience = [
+  const experience = [
     {
       skill : "Web Designer",
       

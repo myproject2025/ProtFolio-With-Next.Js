@@ -7,14 +7,13 @@ import {
   CardHeader,
   CardTitle,
 } from "@/app/component/ui/card";
-import { School } from "lucide-react";
 
 
 
 const Education = () => {
 
   // My Education here
-  let education = [
+  const education = [
     {
       schoolName : "Memon Education Board ",
       date: "12 Jun 2024",

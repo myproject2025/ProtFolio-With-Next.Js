@@ -20,7 +20,7 @@ const Project = () => {
 
 
 
-  let  projects =[
+  const  projects =[
     {
       name:"Resume Builder ",
       detail:"An advanced CV/Resume Builder tool that enables users to create and customize professional CVs/Resumes with ease.",

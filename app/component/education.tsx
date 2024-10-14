@@ -6,9 +6,9 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@/app/component/ui/card";
+} from  "@/app/component/ui/card";
 
-
+// @/app/component/ui/card
 
 const Education = () => {
 

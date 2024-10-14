@@ -8,7 +8,6 @@ import {
   CardTitle,
 } from "@/app/component/ui/card";
 import { link } from "fs";
-import { School } from "lucide-react";
 import Link from "next/link";
 import Image from 'next/image';
 

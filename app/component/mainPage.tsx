@@ -4,7 +4,7 @@
 import { useEffect } from "react";
 
 // FOR ANIMATE ON SCROLL LIBRARY
-import AOS, { init } from "aos";
+import  { init } from "aos";
 import "aos/dist/aos.css"
 
 

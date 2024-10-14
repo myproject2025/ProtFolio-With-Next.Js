@@ -1,4 +1,3 @@
-import { Button } from "@/app/component/ui/button"
 
 import {
   Tabs,

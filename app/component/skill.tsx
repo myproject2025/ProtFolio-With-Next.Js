@@ -2,8 +2,6 @@ import { FaCheckSquare } from "react-icons/fa";
 import {
   Card,
   CardContent,
-  CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/app/component/ui/card";

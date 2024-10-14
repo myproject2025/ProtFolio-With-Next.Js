@@ -10,6 +10,8 @@ import {
 import { link } from "fs";
 import { School } from "lucide-react";
 import Link from "next/link";
+import Image from 'next/image';
+
 
 
 
@@ -77,7 +79,8 @@ const Project = () => {
 
       <div key={i} className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative h-64">
-          <img
+          
+          <Image
             alt="gallery"
             width={1000}
             height={1000}

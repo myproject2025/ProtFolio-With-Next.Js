@@ -1,5 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
+import Image from 'next/image';
+
 
 const MobileProject = () => {
 
@@ -54,7 +56,7 @@ const MobileProject = () => {
 
       <div key={i} className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative h-64">
-          <img
+          <Image
             alt="gallery"
             width={1000}
             height={1000}

@@ -52,7 +52,8 @@ const Contact = () => {
       </div>
     </div>
     <div className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
-      
+      <form   action="https://formspree.io/f/xanynpqa"
+               method="POST">
       <div className="relative mb-4">
         <label htmlFor="name" className="scroll-m-20 text-xl font-semibold tracking-tight">
           Name
@@ -89,7 +90,7 @@ const Contact = () => {
       <button className="text-white bg-black border-0 py-2 px-6 focus:outline-none hover:bg-gray-800 rounded text-lg">
         Send
       </button>
-      
+        </form>
     </div>
   </div>
 
